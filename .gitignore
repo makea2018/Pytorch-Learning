@@ -1,0 +1,9 @@
+# Папки
+.idea
+**/__pycache__/
+venv/*
+data/*
+
+# Файлы
+*.env
+
